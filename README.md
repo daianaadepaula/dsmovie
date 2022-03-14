@@ -1,7 +1,7 @@
 # Movie catalog
 
 <div align="center" >
-  <img src="./img-readme/inicial-page.png" alt="Image Project" height="300px" width="600px">
+  <img src="https://github.com/daianaadepaula/dsmovie/blob/main/img-readme/inicial-page.PNG" alt="Image Project" height="300px" width="600px">
  </div>
 
 
@@ -17,14 +17,14 @@ The application consists of a search in the film catalog, where the films are ev
 ## Layout
 
 <div align="center" >
-  <img src="./img-readme/inicial-page.png" alt="Image Project" height="300px" width="600px">
-  <img src="./img-readme/form-page.png" alt="Image Project" height="300px" width="600px">
+  <img src="https://github.com/daianaadepaula/dsmovie/blob/main/img-readme/inicial-page.PNG" alt="Image Project" height="300px" width="600px">
+  <img src="https://github.com/daianaadepaula/dsmovie/blob/main/img-readme/form-page.PNG" alt="Image Project" height="300px" width="600px">
  </div>
 
 ## Conceptual model
 
 <div align="center" >
-  <img src="./img-readme/conceptual-model-1.png" alt="Image Project" height="300px" width="600px">  
+  <img src="https://github.com/daianaadepaula/dsmovie/blob/main/img-readme/conceptual-model-1.PNG" alt="Image Project" height="300px" width="600px">  
  </div>
 
 ## Technologies used
